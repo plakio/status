@@ -10,32 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 268,
-    "timeDay": 268,
-    "timeWeek": 268,
-    "timeMonth": 268,
-    "timeYear": 268,
+    "time": 267,
+    "timeDay": 267,
+    "timeWeek": 267,
+    "timeMonth": 267,
+    "timeYear": 267,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Panel de control",
-    "url": "https://cloud.plak.io/login",
-    "icon": "https://icons.duckduckgo.com/ip3/cloud.plak.io.ico",
-    "slug": "panel-de-control",
-    "status": "up",
-    "uptime": "0.40%",
-    "uptimeDay": "0.40%",
-    "uptimeWeek": "0.40%",
-    "uptimeMonth": "0.40%",
-    "uptimeYear": "0.40%",
-    "time": 248,
-    "timeDay": 248,
-    "timeWeek": 248,
-    "timeMonth": 248,
-    "timeYear": 248,
-    "dailyMinutesDown": {
-      "2024-10-26": 34
-    }
   },
   {
     "name": "Portal de soporte",
@@ -48,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 263,
-    "timeWeek": 263,
-    "timeMonth": 263,
-    "timeYear": 263,
+    "time": 261,
+    "timeDay": 261,
+    "timeWeek": 261,
+    "timeMonth": 261,
+    "timeYear": 261,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 310,
-    "timeWeek": 310,
-    "timeMonth": 310,
-    "timeYear": 310,
+    "time": 301,
+    "timeDay": 301,
+    "timeWeek": 301,
+    "timeMonth": 301,
+    "timeYear": 301,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 256,
-    "timeWeek": 256,
-    "timeMonth": 256,
-    "timeYear": 256,
+    "time": 237,
+    "timeDay": 237,
+    "timeWeek": 237,
+    "timeMonth": 237,
+    "timeYear": 237,
     "dailyMinutesDown": {}
   }
 ]
