@@ -8,7 +8,7 @@ sites:
   - name: Panel de control
     url: https://cloud.plak.io/login
   - name: Portal de soporte
-    url: https://soporte.pleyas.com/
+    url: https://soporte.plak.io/
   - name: Comunidad de usuarios
     url: https://comunidad.plak.io/
   - name: Plak CLI
@@ -26,8 +26,11 @@ status-website:
   navbar:
     - title: Estados
       href: /
+    - title: Soporte
+      href: https://soporte.plak.io/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
