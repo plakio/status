@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 215,
-    "timeWeek": 268,
+    "time": 267,
+    "timeDay": 319,
+    "timeWeek": 277,
     "timeMonth": 285,
-    "timeYear": 266,
+    "timeYear": 267,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 700,
-    "timeDay": 880,
-    "timeWeek": 740,
-    "timeMonth": 751,
-    "timeYear": 700,
+    "time": 699,
+    "timeDay": 638,
+    "timeWeek": 742,
+    "timeMonth": 739,
+    "timeYear": 699,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://raw.githubusercontent.com/plakio/uptime/master/assets/plak-icon.svg",
     "slug": "portal-de-soporte",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 312,
-    "timeDay": 470,
-    "timeWeek": 339,
-    "timeMonth": 321,
+    "timeDay": 457,
+    "timeWeek": 348,
+    "timeMonth": 319,
     "timeYear": 312,
-    "dailyMinutesDown": {
-      "2024-12-17": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Comunidad de usuarios",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 354,
-    "timeWeek": 225,
-    "timeMonth": 316,
-    "timeYear": 301,
+    "time": 299,
+    "timeDay": 159,
+    "timeWeek": 219,
+    "timeMonth": 304,
+    "timeYear": 299,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 309,
-    "timeWeek": 229,
-    "timeMonth": 241,
-    "timeYear": 240,
+    "time": 241,
+    "timeDay": 281,
+    "timeWeek": 222,
+    "timeMonth": 243,
+    "timeYear": 241,
     "dailyMinutesDown": {}
   }
 ]
