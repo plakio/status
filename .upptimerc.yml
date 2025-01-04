@@ -19,6 +19,10 @@ sites:
     url: https://comunidad.plak.io/
     maxResponseTime: 2000
     icon: https://raw.githubusercontent.com/plakio/uptime/master/assets/plak-icon.svg
+  - name: NSLookup
+    url: https://lookup.plak.io/
+    maxResponseTime: 2000
+    icon: https://raw.githubusercontent.com/plakio/uptime/master/assets/plak-icon.svg
   - name: Plak CLI
     url: https://plak.sh/
     maxResponseTime: 2000
