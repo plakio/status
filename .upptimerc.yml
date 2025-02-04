@@ -2,6 +2,7 @@
 owner: plakio # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
+runner: self-hosted
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
@@ -9,7 +10,7 @@ workflowSchedule:
   summary: "0 0 * * *"          
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/1 * * * *"
+  uptime: "* * * * *"
 
 sites:
   - name: Sitio web
