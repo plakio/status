@@ -1,7 +1,7 @@
 url: https://plak.sh/
-status: up
+status: degraded
 code: 200
-responseTime: 173
-lastUpdated: 2025-03-24T23:09:20.873Z
+responseTime: 7224
+lastUpdated: 2025-03-25T14:33:44.073Z
 startTime: 2024-10-26T18:26:11.105Z
 generator: Upptime <https://github.com/upptime/upptime>
