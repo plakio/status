@@ -94,17 +94,19 @@
     "url": "https://plak.sh/",
     "icon": "https://raw.githubusercontent.com/plakio/uptime/master/assets/plakcli-icon.svg",
     "slug": "plak-cli",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 248,
-    "timeDay": 173,
-    "timeWeek": 306,
-    "timeMonth": 279,
-    "timeYear": 248,
-    "dailyMinutesDown": {}
+    "time": 289,
+    "timeDay": 3699,
+    "timeWeek": 1171,
+    "timeMonth": 519,
+    "timeYear": 289,
+    "dailyMinutesDown": {
+      "2025-03-25": 0
+    }
   }
 ]
