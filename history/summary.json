@@ -4,19 +4,19 @@
     "url": "https://plak.io/",
     "icon": "https://raw.githubusercontent.com/plakio/uptime/master/assets/plak-icon.svg",
     "slug": "sitio-web",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 3172,
-    "timeWeek": 1434,
-    "timeMonth": 605,
-    "timeYear": 327,
+    "time": 326,
+    "timeDay": 2579,
+    "timeWeek": 1323,
+    "timeMonth": 593,
+    "timeYear": 326,
     "dailyMinutesDown": {
-      "2025-04-20": 0
+      "2025-04-20": 9
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://plak.sh/",
     "icon": "https://raw.githubusercontent.com/plakio/uptime/master/assets/plakcli-icon.svg",
     "slug": "plak-cli",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 337,
-    "timeDay": 2406,
-    "timeWeek": 1167,
-    "timeMonth": 750,
-    "timeYear": 337,
+    "time": 336,
+    "timeDay": 1966,
+    "timeWeek": 1080,
+    "timeMonth": 735,
+    "timeYear": 336,
     "dailyMinutesDown": {
-      "2025-04-20": 0
+      "2025-04-20": 9
     }
   }
 ]
