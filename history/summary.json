@@ -6,18 +6,16 @@
     "slug": "sitio-web",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 326,
     "timeDay": 2579,
-    "timeWeek": 1323,
-    "timeMonth": 593,
+    "timeWeek": 1325,
+    "timeMonth": 597,
     "timeYear": 326,
-    "dailyMinutesDown": {
-      "2025-04-20": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Panel de control",
@@ -31,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 739,
-    "timeDay": 765,
-    "timeWeek": 821,
+    "timeDay": 678,
+    "timeWeek": 806,
     "timeMonth": 778,
     "timeYear": 739,
     "dailyMinutesDown": {}
@@ -49,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 341,
-    "timeDay": 284,
-    "timeWeek": 388,
+    "timeDay": 204,
+    "timeWeek": 338,
     "timeMonth": 349,
     "timeYear": 341,
     "dailyMinutesDown": {}
@@ -67,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 264,
-    "timeWeek": 344,
+    "timeDay": 186,
+    "timeWeek": 301,
     "timeMonth": 287,
     "timeYear": 288,
     "dailyMinutesDown": {}
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 605,
-    "timeDay": 551,
-    "timeWeek": 556,
-    "timeMonth": 605,
-    "timeYear": 605,
+    "time": 604,
+    "timeDay": 503,
+    "timeWeek": 597,
+    "timeMonth": 604,
+    "timeYear": 604,
     "dailyMinutesDown": {}
   },
   {
@@ -98,17 +96,15 @@
     "slug": "plak-cli",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 336,
-    "timeDay": 1966,
-    "timeWeek": 1080,
-    "timeMonth": 735,
-    "timeYear": 336,
-    "dailyMinutesDown": {
-      "2025-04-20": 9
-    }
+    "time": 337,
+    "timeDay": 1971,
+    "timeWeek": 1102,
+    "timeMonth": 738,
+    "timeYear": 337,
+    "dailyMinutesDown": {}
   }
 ]
