@@ -4,18 +4,20 @@
     "url": "https://plak.io/",
     "icon": "https://raw.githubusercontent.com/plakio/uptime/master/assets/plak-icon.svg",
     "slug": "sitio-web",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 326,
-    "timeDay": 313,
-    "timeWeek": 1325,
-    "timeMonth": 601,
-    "timeYear": 326,
-    "dailyMinutesDown": {}
+    "time": 345,
+    "timeDay": 2258,
+    "timeWeek": 1564,
+    "timeMonth": 701,
+    "timeYear": 345,
+    "dailyMinutesDown": {
+      "2025-04-22": 0
+    }
   },
   {
     "name": "Panel de control",
