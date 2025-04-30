@@ -4,19 +4,19 @@
     "url": "https://plak.io/",
     "icon": "https://raw.githubusercontent.com/plakio/uptime/master/assets/plak-icon.svg",
     "slug": "sitio-web",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 4839,
-    "timeWeek": 1548,
-    "timeMonth": 987,
-    "timeYear": 401,
+    "time": 400,
+    "timeDay": 3339,
+    "timeWeek": 1438,
+    "timeMonth": 972,
+    "timeYear": 400,
     "dailyMinutesDown": {
-      "2025-04-30": 0
+      "2025-04-30": 9
     }
   },
   {
