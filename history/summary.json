@@ -40,19 +40,19 @@
     "url": "https://soporte.plak.io/",
     "icon": "https://raw.githubusercontent.com/plakio/uptime/master/assets/plak-icon.svg",
     "slug": "portal-de-soporte",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 392,
-    "timeDay": 7134,
-    "timeWeek": 1987,
-    "timeMonth": 759,
-    "timeYear": 392,
+    "time": 391,
+    "timeDay": 4821,
+    "timeWeek": 1788,
+    "timeMonth": 742,
+    "timeYear": 391,
     "dailyMinutesDown": {
-      "2025-06-05": 1
+      "2025-06-05": 10
     }
   },
   {
