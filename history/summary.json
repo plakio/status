@@ -24,17 +24,17 @@
     "url": "https://cloud.plak.io/login",
     "icon": "https://raw.githubusercontent.com/plakio/uptime/master/assets/plak-icon.svg",
     "slug": "panel-de-control",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "98.71%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 727,
-    "timeDay": 681,
-    "timeWeek": 688,
-    "timeMonth": 673,
-    "timeYear": 727,
+    "time": 726,
+    "timeDay": 638,
+    "timeWeek": 670,
+    "timeMonth": 668,
+    "timeYear": 726,
     "dailyMinutesDown": {
       "2025-06-28": 19
     }
