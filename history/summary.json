@@ -24,18 +24,20 @@
     "url": "https://cloud.plak.io/login",
     "icon": "https://raw.githubusercontent.com/plakio/uptime/master/assets/plak-icon.svg",
     "slug": "panel-de-control",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 727,
-    "timeDay": 749,
-    "timeWeek": 699,
-    "timeMonth": 674,
+    "timeDay": 642,
+    "timeWeek": 678,
+    "timeMonth": 670,
     "timeYear": 727,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-28": 0
+    }
   },
   {
     "name": "Portal de soporte",
