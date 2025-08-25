@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 372,
-    "timeDay": 254,
-    "timeWeek": 453,
-    "timeMonth": 321,
-    "timeYear": 372,
+    "time": 371,
+    "timeDay": 260,
+    "timeWeek": 471,
+    "timeMonth": 319,
+    "timeYear": 371,
     "dailyMinutesDown": {
       "2025-06-06": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 717,
-    "timeDay": 528,
-    "timeWeek": 564,
-    "timeMonth": 665,
-    "timeYear": 717,
+    "time": 716,
+    "timeDay": 386,
+    "timeWeek": 555,
+    "timeMonth": 659,
+    "timeYear": 716,
     "dailyMinutesDown": {
       "2025-06-30": 78,
       "2025-06-28": 37
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 400,
-    "timeDay": 298,
-    "timeWeek": 451,
-    "timeMonth": 249,
+    "timeDay": 458,
+    "timeWeek": 482,
+    "timeMonth": 259,
     "timeYear": 400,
     "dailyMinutesDown": {
       "2025-06-16": 16
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 284,
-    "timeDay": 176,
-    "timeWeek": 356,
-    "timeMonth": 223,
+    "timeDay": 113,
+    "timeWeek": 336,
+    "timeMonth": 224,
     "timeYear": 284,
     "dailyMinutesDown": {}
   },
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 560,
-    "timeDay": 188,
-    "timeWeek": 448,
-    "timeMonth": 265,
-    "timeYear": 560,
+    "time": 558,
+    "timeDay": 65,
+    "timeWeek": 426,
+    "timeMonth": 252,
+    "timeYear": 558,
     "dailyMinutesDown": {}
   },
   {
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 668,
-    "timeDay": 458,
-    "timeWeek": 580,
-    "timeMonth": 591,
-    "timeYear": 668,
+    "time": 664,
+    "timeDay": 447,
+    "timeWeek": 574,
+    "timeMonth": 585,
+    "timeYear": 664,
     "dailyMinutesDown": {}
   },
   {
@@ -125,11 +125,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 368,
-    "timeDay": 328,
-    "timeWeek": 424,
-    "timeMonth": 274,
-    "timeYear": 368,
+    "time": 367,
+    "timeDay": 193,
+    "timeWeek": 419,
+    "timeMonth": 273,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2025-05-10": 20,
       "2025-04-26": 59,
@@ -141,17 +141,19 @@
     "url": "https://lemp.run/",
     "icon": "https://raw.githubusercontent.com/plakio/uptime/master/assets/lemp-run-icon.svg",
     "slug": "lemp-run",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 554,
-    "timeWeek": 440,
-    "timeMonth": 347,
-    "timeYear": 329,
-    "dailyMinutesDown": {}
+    "time": 600,
+    "timeDay": 8197,
+    "timeWeek": 2391,
+    "timeMonth": 841,
+    "timeYear": 600,
+    "dailyMinutesDown": {
+      "2025-08-25": 0
+    }
   }
 ]
