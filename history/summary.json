@@ -141,17 +141,19 @@
     "url": "https://lemp.run/",
     "icon": "https://raw.githubusercontent.com/plakio/uptime/master/assets/lemp-run-icon.svg",
     "slug": "lemp-run",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 550,
-    "timeDay": 464,
-    "timeWeek": 361,
-    "timeMonth": 877,
-    "timeYear": 550,
-    "dailyMinutesDown": {}
+    "time": 736,
+    "timeDay": 7575,
+    "timeWeek": 2151,
+    "timeMonth": 1283,
+    "timeYear": 736,
+    "dailyMinutesDown": {
+      "2025-09-11": 0
+    }
   }
 ]
