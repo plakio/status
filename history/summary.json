@@ -65,19 +65,19 @@
     "url": "https://comunidad.plak.io/",
     "icon": "https://raw.githubusercontent.com/plakio/uptime/master/assets/plak-icon.svg",
     "slug": "comunidad-de-usuarios",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 305,
-    "timeDay": 2693,
-    "timeWeek": 1202,
-    "timeMonth": 520,
-    "timeYear": 305,
+    "time": 304,
+    "timeDay": 2208,
+    "timeWeek": 1117,
+    "timeMonth": 513,
+    "timeYear": 304,
     "dailyMinutesDown": {
-      "2025-10-01": 0
+      "2025-10-01": 6
     }
   },
   {
