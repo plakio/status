@@ -83,19 +83,19 @@
     "url": "https://lookup.plak.io/",
     "icon": "https://raw.githubusercontent.com/plakio/uptime/master/assets/plak-icon.svg",
     "slug": "ns-lookup",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 483,
-    "timeDay": 260,
-    "timeWeek": 236,
-    "timeMonth": 208,
-    "timeYear": 483,
+    "time": 481,
+    "timeDay": 173,
+    "timeWeek": 219,
+    "timeMonth": 205,
+    "timeYear": 481,
     "dailyMinutesDown": {
-      "2025-10-31": 0
+      "2025-10-31": 5
     }
   },
   {
