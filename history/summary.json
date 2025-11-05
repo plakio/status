@@ -102,17 +102,19 @@
     "url": "https://sandbox.plak.io/",
     "icon": "https://raw.githubusercontent.com/plakio/uptime/master/assets/plak-icon.svg",
     "slug": "sandbox",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 522,
-    "timeDay": 331,
-    "timeWeek": 400,
-    "timeMonth": 388,
-    "timeYear": 522,
-    "dailyMinutesDown": {}
+    "time": 554,
+    "timeDay": 2495,
+    "timeWeek": 933,
+    "timeMonth": 517,
+    "timeYear": 554,
+    "dailyMinutesDown": {
+      "2025-11-05": 0
+    }
   }
 ]
