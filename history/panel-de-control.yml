@@ -1,7 +1,7 @@
 url: https://cloud.plak.io/login
-status: degraded
+status: up
 code: 200
-responseTime: 29591
-lastUpdated: 2025-11-05T08:28:02.642Z
+responseTime: 304
+lastUpdated: 2025-11-05T08:47:47.974Z
 startTime: 2024-10-26T19:24:28.214Z
 generator: Upptime <https://github.com/upptime/upptime>
