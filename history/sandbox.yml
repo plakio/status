@@ -1,7 +1,7 @@
 url: https://sandbox.plak.io/
-status: up
+status: degraded
 code: 200
-responseTime: 379
-lastUpdated: 2025-11-05T11:08:57.390Z
+responseTime: 8877
+lastUpdated: 2025-11-05T14:17:05.763Z
 startTime: 2025-07-01T16:13:10.150Z
 generator: Upptime <https://github.com/upptime/upptime>
