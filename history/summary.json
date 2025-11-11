@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 371,
-    "timeDay": 294,
-    "timeWeek": 286,
-    "timeMonth": 278,
+    "timeDay": 210,
+    "timeWeek": 269,
+    "timeMonth": 275,
     "timeYear": 379,
     "dailyMinutesDown": {
       "2025-06-06": 18
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
-    "time": 803,
-    "timeDay": 476,
-    "timeWeek": 4934,
+    "time": 802,
+    "timeDay": 340,
+    "timeWeek": 4935,
     "timeMonth": 1943,
-    "timeYear": 815,
+    "timeYear": 814,
     "dailyMinutesDown": {
       "2025-11-05": 37,
       "2025-06-30": 78,
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 370,
-    "timeDay": 303,
-    "timeWeek": 199,
-    "timeMonth": 223,
-    "timeYear": 376,
+    "timeDay": 199,
+    "timeWeek": 203,
+    "timeMonth": 222,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2025-06-16": 16
     }
@@ -73,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 296,
-    "timeDay": 320,
-    "timeWeek": 209,
-    "timeMonth": 224,
-    "timeYear": 298,
+    "timeDay": 157,
+    "timeWeek": 196,
+    "timeMonth": 226,
+    "timeYear": 297,
     "dailyMinutesDown": {}
   },
   {
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 474,
-    "timeDay": 63,
-    "timeWeek": 267,
-    "timeMonth": 219,
-    "timeYear": 474,
+    "time": 473,
+    "timeDay": 146,
+    "timeWeek": 248,
+    "timeMonth": 218,
+    "timeYear": 473,
     "dailyMinutesDown": {}
   },
   {
@@ -108,11 +108,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 611,
-    "timeDay": 358,
-    "timeWeek": 1612,
-    "timeMonth": 759,
-    "timeYear": 611,
+    "time": 609,
+    "timeDay": 345,
+    "timeWeek": 1609,
+    "timeMonth": 760,
+    "timeYear": 609,
     "dailyMinutesDown": {
       "2025-11-05": 21
     }
