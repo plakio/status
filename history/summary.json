@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 371,
-    "timeDay": 210,
-    "timeWeek": 269,
-    "timeMonth": 275,
-    "timeYear": 379,
+    "timeDay": 231,
+    "timeWeek": 268,
+    "timeMonth": 274,
+    "timeYear": 380,
     "dailyMinutesDown": {
       "2025-06-06": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
-    "time": 802,
-    "timeDay": 340,
-    "timeWeek": 4935,
-    "timeMonth": 1943,
-    "timeYear": 814,
+    "time": 801,
+    "timeDay": 481,
+    "timeWeek": 4945,
+    "timeMonth": 1947,
+    "timeYear": 813,
     "dailyMinutesDown": {
       "2025-11-05": 37,
       "2025-06-30": 78,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 370,
-    "timeDay": 199,
-    "timeWeek": 203,
-    "timeMonth": 222,
-    "timeYear": 375,
+    "time": 369,
+    "timeDay": 297,
+    "timeWeek": 233,
+    "timeMonth": 227,
+    "timeYear": 376,
     "dailyMinutesDown": {
       "2025-06-16": 16
     }
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 296,
-    "timeDay": 157,
-    "timeWeek": 196,
-    "timeMonth": 226,
+    "timeDay": 166,
+    "timeWeek": 194,
+    "timeMonth": 223,
     "timeYear": 297,
     "dailyMinutesDown": {}
   },
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 473,
-    "timeDay": 146,
-    "timeWeek": 248,
-    "timeMonth": 218,
+    "timeDay": 280,
+    "timeWeek": 265,
+    "timeMonth": 222,
     "timeYear": 473,
     "dailyMinutesDown": {}
   },
@@ -108,11 +108,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 609,
-    "timeDay": 345,
-    "timeWeek": 1609,
-    "timeMonth": 760,
-    "timeYear": 609,
+    "time": 608,
+    "timeDay": 507,
+    "timeWeek": 1625,
+    "timeMonth": 766,
+    "timeYear": 608,
     "dailyMinutesDown": {
       "2025-11-05": 21
     }
