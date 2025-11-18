@@ -6,9 +6,9 @@
     "slug": "sitio-web",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 368,
     "timeDay": 285,
@@ -16,7 +16,7 @@
     "timeMonth": 269,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 7,
       "2025-06-06": 18
     }
   },
@@ -27,9 +27,9 @@
     "slug": "panel-de-control",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
     "time": 793,
     "timeDay": 248,
@@ -37,7 +37,7 @@
     "timeMonth": 1902,
     "timeYear": 805,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 7,
       "2025-11-05": 37,
       "2025-06-30": 78,
       "2025-06-28": 37
@@ -50,9 +50,9 @@
     "slug": "portal-de-soporte",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 366,
     "timeDay": 163,
@@ -60,7 +60,7 @@
     "timeMonth": 207,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 7,
       "2025-06-16": 16
     }
   },
@@ -71,9 +71,9 @@
     "slug": "comunidad-de-usuarios",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 293,
     "timeDay": 206,
@@ -81,7 +81,7 @@
     "timeMonth": 206,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 7
     }
   },
   {
@@ -89,19 +89,19 @@
     "url": "https://lookup.plak.io/",
     "icon": "https://raw.githubusercontent.com/plakio/uptime/master/assets/plak-icon.svg",
     "slug": "ns-lookup",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 467,
-    "timeDay": 277,
-    "timeWeek": 201,
-    "timeMonth": 215,
-    "timeYear": 467,
+    "time": 466,
+    "timeDay": 319,
+    "timeWeek": 224,
+    "timeMonth": 221,
+    "timeYear": 466,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 7
     }
   },
   {
@@ -109,18 +109,19 @@
     "url": "https://sandbox.plak.io/",
     "icon": "https://raw.githubusercontent.com/plakio/uptime/master/assets/plak-icon.svg",
     "slug": "sandbox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 601,
-    "timeDay": 528,
-    "timeWeek": 436,
-    "timeMonth": 775,
-    "timeYear": 601,
+    "time": 598,
+    "timeDay": 371,
+    "timeWeek": 409,
+    "timeMonth": 760,
+    "timeYear": 598,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-11-05": 21
     }
   }
