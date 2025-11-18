@@ -1,7 +1,7 @@
 url: https://plak.io/
-status: up
-code: 200
-responseTime: 430
-lastUpdated: 2025-11-17T23:10:16.222Z
+status: down
+code: 500
+responseTime: 140
+lastUpdated: 2025-11-18T11:37:44.691Z
 startTime: 2024-10-26T18:26:07.463Z
 generator: Upptime <https://github.com/upptime/upptime>
