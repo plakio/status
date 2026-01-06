@@ -1,7 +1,7 @@
 url: https://soporte.plak.io/
-status: up
+status: degraded
 code: 200
-responseTime: 144
-lastUpdated: 2026-01-05T23:11:32.576Z
+responseTime: 13514
+lastUpdated: 2026-01-06T20:36:25.585Z
 startTime: 2024-10-26T18:26:10.156Z
 generator: Upptime <https://github.com/upptime/upptime>
