@@ -34,7 +34,7 @@
     "time": 749,
     "timeDay": 343,
     "timeWeek": 423,
-    "timeMonth": 530,
+    "timeMonth": 531,
     "timeYear": 758,
     "dailyMinutesDown": {
       "2026-01-17": 43,
@@ -61,7 +61,7 @@
     "time": 442,
     "timeDay": 175,
     "timeWeek": 239,
-    "timeMonth": 1273,
+    "timeMonth": 1304,
     "timeYear": 478,
     "dailyMinutesDown": {
       "2025-12-15": 31,
@@ -74,18 +74,19 @@
     "url": "https://comunidad.plak.io/",
     "icon": "https://raw.githubusercontent.com/plakio/uptime/master/assets/plak-icon.svg",
     "slug": "comunidad-de-usuarios",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.96%",
-    "time": 311,
-    "timeDay": 151,
-    "timeWeek": 190,
-    "timeMonth": 253,
-    "timeYear": 319,
+    "time": 331,
+    "timeDay": 5086,
+    "timeWeek": 1419,
+    "timeMonth": 541,
+    "timeYear": 344,
     "dailyMinutesDown": {
+      "2026-01-19": 0,
       "2025-12-20": 96,
       "2025-11-18": 135
     }
@@ -104,7 +105,7 @@
     "time": 444,
     "timeDay": 117,
     "timeWeek": 285,
-    "timeMonth": 473,
+    "timeMonth": 493,
     "timeYear": 438,
     "dailyMinutesDown": {
       "2025-12-20": 19,
@@ -125,7 +126,7 @@
     "time": 645,
     "timeDay": 348,
     "timeWeek": 2386,
-    "timeMonth": 1049,
+    "timeMonth": 1085,
     "timeYear": 645,
     "dailyMinutesDown": {
       "2026-01-17": 36,
