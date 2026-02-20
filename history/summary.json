@@ -6,17 +6,17 @@
     "slug": "sitio-web",
     "status": "degraded",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 370,
     "timeDay": 3188,
     "timeWeek": 952,
     "timeMonth": 478,
-    "timeYear": 398,
+    "timeYear": 397,
     "dailyMinutesDown": {
-      "2026-02-20": 0,
+      "2026-02-20": 19,
       "2025-11-18": 121,
       "2025-06-06": 18
     }
