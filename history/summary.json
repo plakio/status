@@ -4,9 +4,9 @@
     "url": "https://plak.io/",
     "icon": "https://raw.githubusercontent.com/plakio/uptime/master/assets/plak-icon.svg",
     "slug": "sitio-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 228,
     "timeYear": 395,
     "dailyMinutesDown": {
+      "2026-03-25": 0,
       "2026-02-20": 19,
       "2025-11-18": 121,
       "2025-06-06": 18
