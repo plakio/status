@@ -41,8 +41,8 @@ status-website:
   favicon: https://raw.githubusercontent.com/plakio/uptime/master/assets/plak-icon.png
   faviconSvg: https://raw.githubusercontent.com/plakio/uptime/master/assets/plak-icon.svg
   name: Plak
-  introTitle: "Estado de los servicios de Plak"
-  introMessage: Data en tiempo real e histórica del rendimiento de los sistemas de Plak
+  introTitle: "Plak Status"
+  introMessage: Plak system status, uptime, and incident history
   navbar:
     - title: Status
       href: /
