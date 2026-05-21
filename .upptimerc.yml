@@ -35,7 +35,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # baseUrl: /your-repo-name
-  cname: status.plak.io
+  cname: plakstatus.com
   theme: light
   logoUrl: https://raw.githubusercontent.com/plakio/uptime/master/assets/plak-logo.svg
   favicon: https://raw.githubusercontent.com/plakio/uptime/master/assets/plak-icon.png
