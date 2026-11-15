@@ -12,7 +12,7 @@ sites:
     maxResponseTime: 2000
     icon: https://raw.githubusercontent.com/plakio/uptime/master/assets/plak-icon.svg
   - name: Support Portal
-    url: https://soporte.plak.io/
+    url: https://support.plak.io/
     maxResponseTime: 2000
     icon: https://raw.githubusercontent.com/plakio/uptime/master/assets/plak-icon.svg
   - name: Community
