@@ -12,11 +12,11 @@ sites:
     maxResponseTime: 2000
     icon: https://raw.githubusercontent.com/plakio/uptime/master/assets/plak-icon.svg
   - name: Support Portal
-    url: https://soporte.plak.io/
+    url: https://support.plak.io/
     maxResponseTime: 2000
     icon: https://raw.githubusercontent.com/plakio/uptime/master/assets/plak-icon.svg
   - name: Community
-    url: https://comunidad.plak.io/
+    url: https://community.plak.io/
     maxResponseTime: 2000
     icon: https://raw.githubusercontent.com/plakio/uptime/master/assets/plak-icon.svg
   - name: NSLookup
@@ -46,8 +46,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Soporte
-      href: https://soporte.plak.io/
+    - title: Support
+      href: https://support.plak.io/
 
 workflowSchedule:
   graphs: "0 0 * * *"
